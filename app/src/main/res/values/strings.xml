@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cool 天气</string>
+    <string name="china">中国</string>
+    <string name="loadFailed">加载失败</string>
+    <string name="forecast">预报</string>
+    <string name="get_weather_fail">获取天气信息失败</string>
+</resources>
